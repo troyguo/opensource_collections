@@ -30,5 +30,7 @@ Qemu-arm-linux: https://github.com/surajx/qemu-arm-linux
 
 30dayMakeOS: https://github.com/yourtion/30dayMakeOS
 
+MinocaOS:  https://github.com/minoca/os
+
 
 
