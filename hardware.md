@@ -7,7 +7,7 @@
 - Ibex: https://github.com/lowRISC/ibex
 - opentitan: https://github.com/lowRISC/opentitan
 - nvdla:  https://github.com/nvdla/hw
-- risc-dv: https://github.com/google/riscv-dv
+- riscv-dv: https://github.com/google/riscv-dv
 - core-v-verif: https://github.com/openhwgroup/core-v-verif
 - openhmc: https://github.com/unihd-cag/openhmc
 - riscv-vip: https://github.com/jerralph/riscv-vip
