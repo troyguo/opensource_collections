@@ -23,7 +23,8 @@
 - i2c-vip-uvm: https://github.com/zhangyl4991/i2c-vip-uvm
 - tnoc:  https://github.com/taichi-ishitani/tnoc
 - SDRAM-Verification: https://github.com/yvnr4you/SDRAM-Verification
-- 
+
+  
 
 ## Design
 
@@ -39,3 +40,11 @@
 - verilog-axi: https://github.com/alexforencich/verilog-axi
 - wb2axi: https://github.com/ZipCPU/wb2axip
 - alice5: https://github.com/bradgrantham/alice5
+
+
+
+## Virtual Prototyping
+
+- Soclib: http://www.soclib.fr/trac/dev
+- Gem5:  http://www.m5sim.org/Main_Page
+
