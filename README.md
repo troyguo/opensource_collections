@@ -1,8 +1,10 @@
 # opensource_collections
 
-[Software](software.md)
+Collections of some opensource hardware(ASIC/IP design/verification) and embeddes software 
 
-[Hardware](hardware.md)
+[1. Software](software.md)
+
+[2.Hardware](hardware.md)
 
 
 
