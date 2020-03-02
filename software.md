@@ -20,18 +20,10 @@
 - MinocaOS:  https://github.com/minoca/os
 
 - Charm:  https://github.com/bbhat/charm
-
-<<<<<<< HEAD
+	chARM is a Realtime Operating System developed from scratch that runs on ARM platform. chARM implements Earliest Deadline First (EDF) scheduling algorithm. Its periodic threading model allows creating tasks with arbitrary period, budget, deadline and phase having granularity and accuracy of few microseconds. chARM currently runs on Mini210s deve…
 
 ## Emulator
 
 - uARM: https://github.com/mellotanica/uARM
 
 - box86:https://github.com/ptitSeb/box86
-
-
-
-
-=======
-  chARM is a Realtime Operating System developed from scratch that runs on ARM platform. chARM implements Earliest Deadline First (EDF) scheduling algorithm. Its periodic threading model allows creating tasks with arbitrary period, budget, deadline and phase having granularity and accuracy of few microseconds. chARM currently runs on Mini210s deve…
->>>>>>> Add charm os
