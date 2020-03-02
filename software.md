@@ -19,7 +19,9 @@
 - 30dayMakeOS: https://github.com/yourtion/30dayMakeOS
 - MinocaOS:  https://github.com/minoca/os
 
+- Charm:  https://github.com/bbhat/charm
 
+<<<<<<< HEAD
 
 ## Emulator
 
@@ -30,3 +32,6 @@
 
 
 
+=======
+  chARM is a Realtime Operating System developed from scratch that runs on ARM platform. chARM implements Earliest Deadline First (EDF) scheduling algorithm. Its periodic threading model allows creating tasks with arbitrary period, budget, deadline and phase having granularity and accuracy of few microseconds. chARM currently runs on Mini210s deve…
+>>>>>>> Add charm os
