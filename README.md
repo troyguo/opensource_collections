@@ -27,7 +27,8 @@
 - Porting MINIX3 to Raspberry Pi:  https://github.com/nekorobov/minix/tree/rpi_clean
 - uos-embedded: https://github.com/sergev/uos-embedded  
    Embedded operating system for MIPS, ARM, AVR, MSP430 and i386 architectures
-- 
+- raspberry-pi-os: 
+https://github.com/s-matyukevich/raspberry-pi-os
 
 ## Emulator
 
