@@ -28,10 +28,23 @@
 - uos-embedded: https://github.com/sergev/uos-embedded  
    Embedded operating system for MIPS, ARM, AVR, MSP430 and i386 architectures
 - raspberry-pi-os: 
-https://github.com/s-matyukevich/raspberry-pi-os
+   https://github.com/s-matyukevich/raspberry-pi-os
+
+- XEOS: 
+  https://github.com/macmade/XEOS 
+  
+XEOS is an experimental 32/64 bits Operating System for x86 platforms, written from scratch in Assembly and C.
+It includes a C99 Standard Library, and aims at POSIX/SUS2 compatibility.
+
+Its main purpose is educationnal, and to provide people interested in OS development with a clean code base.
+While available only for x86, it may evolve to support other platforms.
 
 ## Emulator
 
 - uARM: https://github.com/mellotanica/uARM
 
 - box86:https://github.com/ptitSeb/box86
+
+- unicorn-bios 
+  https://github.com/macmade/unicorn-bios
+
