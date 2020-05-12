@@ -39,6 +39,9 @@ It includes a C99 Standard Library, and aims at POSIX/SUS2 compatibility.
 Its main purpose is educationnal, and to provide people interested in OS development with a clean code base.
 While available only for x86, it may evolve to support other platforms.
 
+- SerenityOS: https://github.com/SerenityOS/serenity 
+The Serenity Operating System 🐞 http://serenityos.org
+
 ## Emulator
 
 - uARM: https://github.com/mellotanica/uARM
